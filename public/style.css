@@ -1,0 +1,14 @@
+body {
+    background-image: url("media/bg7.jpg");
+    background-size: 1300px 600px;
+}
+
+
+h2 {
+    color: white;
+    font-family: serif;
+    font-weight: bolder;
+    font-size: 30pt;
+    position: relative;
+    left:-50px;
+}
